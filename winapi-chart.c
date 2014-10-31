@@ -1,5 +1,5 @@
 /*
-	Name		: WinAPI Chart
+	Name	: WinAPI Chart
 	Author	: Daniel Sirait <dns@cpan.org>
 	License : Public Domain
 */
